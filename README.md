@@ -1,34 +1,90 @@
 <h1 align="center">Hi, I'm Leonard 👋</h1>
-<h3 align="center">SOC Analyst in Training | Microsoft Sentinel | Azure Security</h3>
+<h3 align="center">SOC Analyst | Microsoft Sentinel | Azure Security | CompTIA Security+</h3>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔐 Aspiring SOC Analyst actively building hands-on cybersecurity skills
-- 🛡️ Training on **Immersive Labs** — completing real-world Azure security labs
-- ☁️ Focused on **Microsoft Sentinel**, SOAR automation, and cloud security
+- 🔐 SOC Analyst with **1+ year of hands-on cybersecurity experience**
+- 🏅 **CompTIA Security+** certified
+- 🛡️ Continuously developing skills through real-world labs on **Immersive Labs**, **Kali Linux**, and **Ubuntu**
+- ☁️ Specialising in **Microsoft Sentinel**, SOAR automation, SIEM, and cloud security
 - 📍 Based in **London, England**
-- 🎯 Goal: Transitioning into a full-time SOC Analyst role
+- 🎯 Building expertise in threat detection, incident response, log forensics, and security automation
 
 ---
 
-## 🏅 Recent Certifications & Badges
+## 🏅 Certifications & Badges
 
-| Badge | Platform | Date |
+| Certification / Badge | Issuer | Status |
 |---|---|---|
-| Microsoft Sentinel SOAR | Immersive Labs | June 2026 |
-| Web Server Log Forensics | Immersive Labs | 2026 |
+| CompTIA Security+ | CompTIA | ✅ Certified |
+| Microsoft Sentinel SOAR: Demonstrate Your Skills | Immersive Labs | ✅ Completed June 2026 |
+| Microsoft Sentinel Blue Team Ops: Demonstrate Your Skills | Immersive Labs | ✅ Completed |
+| Microsoft Sentinel: Security Analysis with Workbooks | Immersive Labs | ✅ Completed |
+| Web Server Log Forensics | Immersive Labs | ✅ Completed |
 
 ---
 
 ## 🔬 Featured Projects
 
-### 🔴 [Microsoft Sentinel SOAR Pipeline](https://github.com/Leomez17/Cybersecurity-Portfolio)
-Built a fully automated threat-response pipeline in Azure — IP risk scoring, incident severity escalation, and autonomous storage key rotation using Logic Apps and Sentinel automation rules.
+### ☁️ Microsoft Sentinel SOAR Pipeline
+Built a fully automated threat-response pipeline in Azure — extracted IP entities from incidents, called a third-party risk scoring API, escalated incident severity conditionally, and triggered autonomous storage key rotation using Logic Apps and Sentinel automation rules.
+**Tools:** Microsoft Sentinel · Azure Logic Apps · KQL · REST API · Azure RBAC
 
-### 🔍 [Apache Tomcat Log Forensics](https://github.com/Leomez17/Cybersecurity-Projects)
-Investigated a ransomware incident using bash forensics tools — identified attacker IPs, traced WAR file deployment, and confirmed RCE via JSP webshell.
+---
+
+### 📊 Microsoft Sentinel Blue Team Operations
+Demonstrated Blue Team capabilities within Microsoft Sentinel — threat detection, alert triage, and incident investigation workflows in a real Azure environment.
+**Tools:** Microsoft Sentinel · KQL · Azure
+
+---
+
+### 📈 Security Analysis with Workbooks (Microsoft Sentinel)
+Built and configured Microsoft Sentinel Workbooks for visual security analytics — creating dashboards to surface threat patterns and support SOC decision-making.
+**Tools:** Microsoft Sentinel · Azure Monitor Workbooks · KQL
+
+---
+
+### 🕵️ Web Server Log Forensics — Ransomware Investigation
+Investigated a ransomware incident against an Apache Tomcat server using bash forensics tools. Identified attacker IPs, confirmed brute force against Tomcat Manager, traced WAR file deployment, and confirmed Remote Code Execution via a JSP webshell.
+**Tools:** Apache Tomcat · Bash · awk · grep · sort · uniq · Linux CLI
+
+---
+
+### 🏥 Phishing Email Investigation & Response — Healthcare
+Investigated a targeted phishing campaign against a healthcare organisation. Analysed email headers, identified indicators of compromise, and developed a structured incident response plan to contain and remediate the threat.
+**Tools:** Kali Linux · Email header analysis · IOC extraction · Incident response frameworks
+
+---
+
+### 🦠 Ransomware Attack Response — Healthcare
+Responded to a simulated ransomware attack targeting a healthcare environment. Performed containment, eradication, and recovery activities, documenting the full incident response lifecycle.
+**Tools:** Kali Linux · Ubuntu · Incident response · Malware analysis
+
+---
+
+### 🔎 Vulnerability Assessment & Network Scan — CyberTech Solutions
+Conducted a full vulnerability assessment and network scan against a corporate environment. Identified open ports, running services, and exploitable vulnerabilities, producing a prioritised remediation report.
+**Tools:** Kali Linux · Nmap · Vulnerability scanning · Network enumeration
+
+---
+
+### 🌐 Nation-State Threat Investigation — MuddyWater with MISP
+Investigated a MuddyWater nation-state threat actor campaign using MISP (Malware Information Sharing Platform). Correlated threat intelligence, identified TTPs mapped to MITRE ATT&CK, and produced actionable threat intelligence findings.
+**Tools:** MISP · MITRE ATT&CK · Threat intelligence · IOC analysis · Kali Linux
+
+---
+
+### 🏥 Threat Detection & Response — Healthcare Cybersecurity
+Enhanced threat detection and response capabilities in a healthcare cybersecurity environment. Developed detection rules, triaged alerts, and implemented response playbooks tailored to healthcare-specific threat scenarios.
+**Tools:** Kali Linux · Ubuntu · SIEM · Threat detection · Incident response
+
+---
+
+### 🖥️ Apache Web Server Deployment, Hardening & Zeek Monitoring with Elastic SIEM
+Deployed and hardened an Apache web server with authentication controls. Configured Zeek for network traffic monitoring and integrated logs into Elastic SIEM for real-time threat visibility and detection.
+**Tools:** Apache · Zeek · Elastic SIEM · Ubuntu · Authentication hardening · Network monitoring
 
 ---
 
@@ -37,8 +93,15 @@ Investigated a ransomware incident using bash forensics tools — identified att
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 ![Logic Apps](https://img.shields.io/badge/Logic%20Apps-0066FF?style=flat&logo=microsoft&logoColor=white)
+![Elastic SIEM](https://img.shields.io/badge/Elastic%20SIEM-005571?style=flat&logo=elastic&logoColor=white)
+![MISP](https://img.shields.io/badge/MISP-2C3E50?style=flat&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
+![Zeek](https://img.shields.io/badge/Zeek-777BB4?style=flat&logoColor=white)
 ![KQL](https://img.shields.io/badge/KQL-E34F26?style=flat&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat&logoColor=white)
+![CompTIA](https://img.shields.io/badge/CompTIA%20Security+-FF0000?style=flat&logo=comptia&logoColor=white)
 
 ---
 
