@@ -28,9 +28,7 @@
 
 ## 🔬 Featured Projects
 
-### ☁️ Microsoft Sentinel SOAR Pipeline
-Built a fully automated threat-response pipeline in Azure — extracted IP entities from incidents, called a third-party risk scoring API, escalated incident severity conditionally, and triggered autonomous storage key rotation using Logic Apps and Sentinel automation rules.
-**Tools:** Microsoft Sentinel · Azure Logic Apps · KQL · REST API · Azure RBAC
+### ☁️ [Microsoft Sentinel SOAR Pipeline](https://leomez17.github.io/Cybersecurity-Portfolio/)
 
 ---
 
