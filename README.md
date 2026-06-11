@@ -3,33 +3,33 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🔐 SOC Analyst with **1+ year of hands-on cybersecurity experience**
-- 🏅 **CompTIA Security+** certified
-- 🛡️ Continuously developing skills through real-world labs on **Immersive Labs**, **LetsDefend**, **Kali Linux**, and **Ubuntu**
-- ☁️ Specialising in **Microsoft Sentinel**, SOAR automation, SIEM, and cloud security
-- 📍 Based in **London, England**
-- 🎯 Building expertise in threat detection, incident response, log forensics, and security automation
+- SOC Analyst with **1+ year of hands-on cybersecurity experience**
+- **CompTIA Security+** certified
+- Continuously developing skills through real-world labs on **Immersive Labs**, **LetsDefend**, **Kali Linux**, and **Ubuntu**
+- Specialising in **Microsoft Sentinel**, SOAR automation, SIEM, and cloud security
+- Based in **London, England**
+- Building expertise in threat detection, incident response, log forensics, and security automation
 
 ---
 
-## 🏅 Certifications & Badges
+## Certifications & Badges
 
-### 🎓 Certifications
+### Certifications
 | Certification | Issuer | Status |
 |---|---|---|
 | CompTIA Security+ | CompTIA | ✅ Certified |
 
-### 🟦 Immersive Labs Badges
+### Immersive Labs Badges
 | Badge | Status |
 |---|---|
-| Microsoft Sentinel SOAR: Demonstrate Your Skills | ✅ Completed June 2026 |
-| Microsoft Sentinel Blue Team Ops: Demonstrate Your Skills | ✅ Completed |
-| Microsoft Sentinel: Security Analysis with Workbooks | ✅ Completed |
-| Web Server Log Forensics | ✅ Completed |
+| Microsoft Sentinel SOAR: Demonstrate Your Skills | Completed June 2026 |
+| Microsoft Sentinel Blue Team Ops: Demonstrate Your Skills | Completed |
+| Microsoft Sentinel: Security Analysis with Workbooks | Completed |
+| Web Server Log Forensics | Completed |
 
-### 🟩 LetsDefend Badges (12 Badges · 10 Courses)
+### LetsDefend Badges (12 Badges · 10 Courses)
 | Badge | Course |
 |---|---|
 | SOC Member | SOC Fundamentals |
@@ -47,81 +47,81 @@
 
 ---
 
-## 🔬 Featured Projects
+## Featured Projects
 
-### ☁️ [Microsoft Sentinel SOAR Pipeline](https://leomez17.github.io/Cybersecurity-Portfolio/)
+### [Microsoft Sentinel SOAR Pipeline](https://leomez17.github.io/Cybersecurity-Portfolio/)
 Built a fully automated threat-response pipeline in Azure — extracted IP entities from incidents, called a third-party risk scoring API, escalated incident severity conditionally, and triggered autonomous storage key rotation using Logic Apps and Sentinel automation rules.
 **Tools:** Microsoft Sentinel · Azure Logic Apps · KQL · REST API · Azure RBAC
 
 ---
 
-### 📊 Microsoft Sentinel Blue Team Operations
+### Microsoft Sentinel Blue Team Operations
 Demonstrated Blue Team capabilities within Microsoft Sentinel — threat detection, alert triage, and incident investigation workflows in a real Azure environment.
 **Tools:** Microsoft Sentinel · KQL · Azure
 
 ---
 
-### 📈 Security Analysis with Workbooks (Microsoft Sentinel)
+### Security Analysis with Workbooks (Microsoft Sentinel)
 Built and configured Microsoft Sentinel Workbooks for visual security analytics — creating dashboards to surface threat patterns and support SOC decision-making.
 **Tools:** Microsoft Sentinel · Azure Monitor Workbooks · KQL
 
 ---
 
-### 🕵️ Web Server Log Forensics — Ransomware Investigation
+### Web Server Log Forensics — Ransomware Investigation
 Investigated a ransomware incident against an Apache Tomcat server using bash forensics tools. Identified attacker IPs, confirmed brute force against Tomcat Manager, traced WAR file deployment, and confirmed Remote Code Execution via a JSP webshell.
 **Tools:** Apache Tomcat · Bash · awk · grep · sort · uniq · Linux CLI
 
 ---
 
-### 🌐 Web Attack Investigation (LetsDefend)
+### Web Attack Investigation (LetsDefend)
 Investigated web-based attacks as a SOC Analyst — analysed web logs, identified attack vectors, and correlated events to determine attacker behaviour and impact.
 **Tools:** LetsDefend · SIEM · Web log analysis
 
 ---
 
-### 🚨 SIEM Alert Investigation (LetsDefend)
+### SIEM Alert Investigation (LetsDefend)
 Practised end-to-end SIEM alert investigation workflows — triaging alerts, correlating events, identifying false positives, and escalating confirmed incidents.
 **Tools:** LetsDefend · SIEM · Incident triage
 
 ---
 
-### 🏥 Phishing Email Investigation & Response — Healthcare
+### Phishing Email Investigation & Response — Healthcare
 Investigated a targeted phishing campaign against a healthcare organisation. Analysed email headers, identified indicators of compromise, and developed a structured incident response plan.
 **Tools:** Kali Linux · Email header analysis · IOC extraction · Incident response
 
 ---
 
-### 🦠 Ransomware Attack Response — Healthcare
+### Ransomware Attack Response — Healthcare
 Responded to a simulated ransomware attack targeting a healthcare environment. Performed containment, eradication, and recovery activities across the full incident response lifecycle.
 **Tools:** Kali Linux · Ubuntu · Incident response · Malware analysis
 
 ---
 
-### 🔎 Vulnerability Assessment & Network Scan — CyberTech Solutions
+### Vulnerability Assessment & Network Scan — CyberTech Solutions
 Conducted a full vulnerability assessment and network scan against a corporate environment. Identified open ports, running services, and exploitable vulnerabilities with a prioritised remediation report.
 **Tools:** Kali Linux · Nmap · Vulnerability scanning · Network enumeration
 
 ---
 
-### 🌐 Nation-State Threat Investigation — MuddyWater with MISP
+### Nation-State Threat Investigation — MuddyWater with MISP
 Investigated a MuddyWater nation-state threat actor campaign using MISP. Correlated threat intelligence, identified TTPs mapped to MITRE ATT&CK, and produced actionable findings.
 **Tools:** MISP · MITRE ATT&CK · Threat intelligence · IOC analysis · Kali Linux
 
 ---
 
-### 🏥 Threat Detection & Response — Healthcare Cybersecurity
+### Threat Detection & Response — Healthcare Cybersecurity
 Enhanced threat detection and response capabilities in a healthcare cybersecurity environment. Developed detection rules, triaged alerts, and implemented response playbooks.
 **Tools:** Kali Linux · Ubuntu · SIEM · Threat detection · Incident response
 
 ---
 
-### 🖥️ Apache Web Server Deployment, Hardening & Zeek Monitoring with Elastic SIEM
+### Apache Web Server Deployment, Hardening & Zeek Monitoring with Elastic SIEM
 Deployed and hardened an Apache web server with authentication controls. Configured Zeek for network traffic monitoring and integrated logs into Elastic SIEM for real-time threat visibility.
 **Tools:** Apache · Zeek · Elastic SIEM · Ubuntu · Authentication hardening · Network monitoring
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
@@ -139,7 +139,7 @@ Deployed and hardened an Apache web server with authentication controls. Configu
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonard-abanobi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://leomez17.github.io/Cybersecurity-Portfolio/)
