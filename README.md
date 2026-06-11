@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Leonard 👋</h1>
+<h1 align="center">Hi, I'm Leonard </h1>
 <h3 align="center">SOC Analyst | Microsoft Sentinel | Azure Security | CompTIA Security+</h3>
 
 ---
@@ -19,7 +19,7 @@
 ### Certifications
 | Certification | Issuer | Status |
 |---|---|---|
-| CompTIA Security+ | CompTIA | ✅ Certified |
+| CompTIA Security+ | CompTIA | Certified |
 
 ### Immersive Labs Badges
 | Badge | Status |
